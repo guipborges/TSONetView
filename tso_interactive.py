@@ -81,7 +81,10 @@ def add_connection_lines_to_map(geojson_data, electrical_connections, map_object
             ).add_to(map_object)
 
             # Adicionar o nome da linha sobre a linha de transmissão
-            line_description = description #description.split(';')[0]  # Exemplo de descrição da linha
+ #          line_description = description.split(';')[0]  # Exemplo de descrição da linha
+            parts = description.split(';')
+            line_description = f"{parts[2].strip()} - {parts[3].strip()} - {parts[4].strip()}"
+
             midpoint = [(from_coords[0] + to_coords[0]) / 2, (from_coords[1] + to_coords[1]) / 2]
             folium.Marker(
                 location=midpoint,

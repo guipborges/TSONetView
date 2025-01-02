@@ -82,7 +82,7 @@ def add_connection_lines_to_map(geojson_data, electrical_connections, map_object
 
             # Adicionar o nome da linha sobre a linha de transmissão
  #          line_description = description.split(';')[0]  # Exemplo de descrição da linha
-            line_description = description.split(';')[2].strip() + " - " + description.split(';')[3].strip() + " - " + description.split(';')[4].strip()
+            line_description = "[" + from_iso + " -" +  to_iso + "]" + from_name + (from_tso)  + " - " + to_name + (to_tso)
 
 
             midpoint = [(from_coords[0] + to_coords[0]) / 2, (from_coords[1] + to_coords[1]) / 2]

@@ -9308,7 +9308,7 @@
             },
             "IdentifiedObject.name": "XMN_RU22",
             "IdentifiedObject.shortName": "XMN_RU22",
-            "IdentifiedObject.description": "XMN_RU22; overheadLine; 220 kV; CH-AT; RÃÂÃÂ¼thi - Meiningen rot",
+            "IdentifiedObject.description": "XMN_RU22; overheadLine; 220 kV; CH-AT; Rüthi - Meiningen rot",
             "ConnectivityNode.fromEndName": "Meiningen",
             "ConnectivityNode.fromEndNameTso": "VUEN",
             "ConnectivityNode.fromEndIsoCode": "AT",

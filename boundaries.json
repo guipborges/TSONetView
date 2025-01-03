@@ -238,7 +238,7 @@
             "ConnectivityNode.fromEndNameTso": "NOS BiH",
             "ConnectivityNode.fromEndIsoCode": "BA",
             "ConnectivityNode.toEndName": "Vilusi",
-            "ConnectivityNode.toEndNameTso": "Crnogorski elektroprenosni siste",
+            "ConnectivityNode.toEndNameTso": "Crnogorski elektroprenosni sistem AD",
             "ConnectivityNode.toEndIsoCode": "ME",
             "ConnectivityNode.boundaryPoint": "true"
         },

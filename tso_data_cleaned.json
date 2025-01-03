@@ -1,0 +1,309 @@
+[
+    {
+        "Acronym": "AT",
+        "Country": "Austria",
+        "Company": "Austrian Power Grid AG\nVorarlberger Übertragungsnetz GmbH",
+        "Abbr/Website": "APG, VUEN",
+        "neighbors": ["CH", "DE", "HU", "IT", "LI", "SK", "SI", "CZ"]
+    },
+    {
+        "Acronym": "AL",
+        "Country": "Albania",
+        "Company": "OST sh.a – Albanian Transmission System Operator",
+        "Abbr/Website": "OST",
+        "neighbors": ["GR", "ME", "MK", "XK", "KS"]
+    },
+    {
+        "Acronym": "BA",
+        "Country": "Bosnia and Herzegovina",
+        "Company": "Nezavisni operator sustava u Bosni i Hercegovini",
+        "Abbr/Website": "NOS BiH",
+        "neighbors": ["HR", "ME", "RS"]
+    },
+    {
+        "Acronym": "BE",
+        "Country": "Belgium",
+        "Company": "Elia System Operator SA",
+        "Abbr/Website": "Elia",
+        "neighbors": ["FR", "DE", "LU", "NL"]
+    },
+    {
+        "Acronym": "BG",
+        "Country": "Bulgaria",
+        "Company": "Electroenergien Sistemen Operator EAD",
+        "Abbr/Website": "ESO",
+        "neighbors": ["GR", "MK", "RO", "RS", "TR"]
+    },
+    {
+        "Acronym": "CH",
+        "Country": "Switzerland",
+        "Company": "Swissgrid ag",
+        "Abbr/Website": "Swissgrid",
+        "neighbors": ["AT", "DE", "FR", "IT", "LI"]
+    },
+    {
+        "Acronym": "CY",
+        "Country": "Cyprus",
+        "Company": "Cyprus Transmission System Operator",
+        "Abbr/Website": "Cyprus TSO",
+        "neighbors": []
+    },
+    {
+        "Acronym": "CZ",
+        "Country": "Czech Republic",
+        "Company": "ČEPS a.s.",
+        "Abbr/Website": "ČEPS",
+        "neighbors": ["AT", "DE", "PL", "SK"]
+    },
+    {
+        "Acronym": "DE",
+        "Country": "Germany",
+        "Company": "TransnetBW GmbH\nTenneT TSO GmbH\nAmprion GmbH\n50Hertz Transmission GmbH",
+        "Abbr/Website": "TransnetBW, TenneT DE, Amprion, 50Hertz",
+        "neighbors": ["AT", "BE", "CZ", "DK", "FR", "LU", "NL", "PL", "CH"]
+    },
+    {
+        "Acronym": "DK",
+        "Country": "Denmark",
+        "Company": "Energinet",
+        "Abbr/Website": "Energinet.dk",
+        "neighbors": ["DE"]
+    },
+    {
+        "Acronym": "EE",
+        "Country": "Estonia",
+        "Company": "Elering AS",
+        "Abbr/Website": "Elering AS",
+        "neighbors": ["LV", "RU"]
+    },
+    {
+        "Acronym": "ES",
+        "Country": "Spain",
+        "Company": "Red Eléctrica de España S.A.",
+        "Abbr/Website": "REE",
+        "neighbors": ["FR", "PT"]
+    },
+    {
+        "Acronym": "FI",
+        "Country": "Finland",
+        "Company": "Fingrid Oyj",
+        "Abbr/Website": "Fingrid",
+        "neighbors": ["NO", "RU", "SE"]
+    },
+    {
+        "Acronym": "FR",
+        "Country": "France",
+        "Company": "Réseau de Transport d'Electricité",
+        "Abbr/Website": "RTE",
+        "neighbors": ["BE", "DE", "IT", "LU", "ES", "CH"]
+    },
+    {
+        "Acronym": "GR",
+        "Country": "Greece",
+        "Company": "Independent Power Transmission Operator S.A.",
+        "Abbr/Website": "IPTO",
+        "neighbors": ["AL", "BG", "MK", "TR"]
+    },
+    {
+        "Acronym": "HR",
+        "Country": "Croatia",
+        "Company": "HOPS d.d.",
+        "Abbr/Website": "HOPS",
+        "neighbors": ["BA", "HU", "ME", "RS", "SI"]
+    },
+    {
+        "Acronym": "HU",
+        "Country": "Hungary",
+        "Company": "MAVIR Magyar Villamosenergia-ipari Átviteli Rendszerirányító Zrt.",
+        "Abbr/Website": "MAVIR ZRt.",
+        "neighbors": ["AT", "HR", "RO", "RS", "SK", "SI", "UA"]
+    },
+    {
+        "Acronym": "IT",
+        "Country": "Italy",
+        "Company": "Terna - Rete Elettrica Nazionale SpA",
+        "Abbr/Website": "Terna.",
+        "neighbors": ["AT", "CH", "FR", "HR", "SI", "VA"]
+
+    },
+    {
+        "Acronym": "KS",
+        "Country": "Kosovo",
+        "Company": "KOSTT -  Kosovo Transmission System Operator",
+        "Abbr/Website": "KOSTT",
+        "neighbors": ["RS", "MK", "AL"]
+    },
+    {
+        "Acronym": "MK",
+        "Country": "Republic of North Macedonia",
+        "Company": "Transmission System Operator of the Republic of North Macedonia (MEPSO)",
+        "Abbr/Website": "MEPSO",
+        "neighbors": ["AL", "BG", "GR", "RS", "XK"]
+
+    },
+    {
+        "Acronym": "TR",
+        "Country": "Türkiye",
+        "Company": "TEIAS Türkiye,Turkish Electricity Transmission Corporation (TEIAS)",
+        "Abbr/Website": "TEIAS",
+        "neighbors": ["BG", "GR", "MD", "RS", "UA"]
+
+    },
+    {
+        "Acronym": "LY",
+        "Country": "Libya",
+        "Company": "Libya, General Electricity Company of Libya (GECOL)",
+        "Abbr/Website": "GECOL",
+        "neighbors": ["GR"]
+
+    },
+    {
+        "Acronym": "SI",
+        "Country": "Slovenia",
+        "Company": "ELES, d.o.o.",
+        "Abbr/Website": "ELES",
+        "neighbors": ["AT", "HR", "IT", "HU"]
+    },
+    {
+        "Acronym": "RS",
+        "Country": "Servia",
+        "Company": "Elektromreža Srbije (EMS)",
+        "Abbr/Website": "EMS",
+        "neighbors": ["HU", "HR", "BA", "ME", "MK", "BG", "RO"]
+    },
+    {
+        "Acronym": "ME",
+        "Country": "Montenegro",
+        "Company": "Crnogorski elektroprenosni sistem AD",
+        "Abbr/Website": "CES",
+        "neighbors": ["HR", "RS", "AL", "BA"]
+    },
+    {
+        "Acronym": "NL",
+        "Country": "Netherlands",
+        "Company": "TenneT TSO B.V",
+        "Abbr/Website": "TenneT TSO B.V",
+        "neighbors": ["BE", "DE"]
+    },
+    {
+        "Acronym": "GB",
+        "Country": "United Kingdom",
+        "Company": "National Grid ESO",
+        "Abbr/Website": "National Grid ESO",
+        "neighbors": ["IE"]
+    },
+    {
+        "Acronym": "LU",
+        "Country": "Luxembourg",
+        "Company": "Creos Luxembourg S.A.",
+        "Abbr/Website": "Creos",
+        "neighbors": ["BE", "FR", "DE"]
+    },
+    {
+        "Acronym": "RO",
+        "Country": "Romania",
+        "Company": "C.N. Transelectrica S.A",
+        "Abbr/Website": "Transelectrica",
+        "neighbors": ["HU", "BG", "RS", "UA", "MD"]
+    },
+    {
+        "Acronym": "SK",
+        "Country": "Slovak Republic",
+        "Company": "Slovenská elektrizačná prenosová sústava, a.s. (SEPS)",
+        "Abbr/Website": "SEPS",
+        "neighbors": ["AT", "CZ", "HU", "PL", "UA"]
+    },
+    {
+        "Acronym": "PL",
+        "Country": "Poland",
+        "Company": "Polskie Sieci Elektroenergetyczne S.A. (PSE S.A.)",
+        "Abbr/Website": "PSE",
+        "neighbors": ["DE", "CZ", "SK", "UA", "BY", "LT"]
+
+    },
+    {
+        "Acronym": "NO",
+        "Country": "Normay",
+        "Company": "Statnett SF",
+        "Abbr/Website": "Statnett SF",
+        "neighbors": ["SE", "FI", "RU"]
+    },
+    {
+        "Acronym": "SE",
+        "Country": "Sweden",
+        "Company": "Svenska Kraftnät",
+        "Abbr/Website": "Svenska Kraftnät",
+        "neighbors": ["NO", "FI", "DK"]
+    },
+    {
+        "Acronym": "RU",
+        "Country": "Russia",
+        "Company": "FGC: Federal Grid Compan / UES: Unified Energy System",
+        "Abbr/Website": "FGC / UES",
+        "neighbors": ["NO", "FI", "EE", "LV", "LT", "PL", "UA", "BY", "KZ", "MN", "GE"]
+
+    },
+    {
+        "Acronym": "LV",
+        "Country": "Latvia",
+        "Company": "AS Augstsprieguma tīkls (AST)",
+        "Abbr/Website": "AST ",
+        "neighbors": ["EE", "RU", "LT"]
+    },
+    {
+        "Acronym": "MA",
+        "Country": "Morrocos",
+        "Company": "ONE: Office National de l'Electricité et de l'Eau Potable",
+        "Abbr/Website": "ONE ",
+        "neighbors": ["ES"]
+    },
+    {
+        "Acronym": "PT",
+        "Country": "Portugal",
+        "Company": "Rede Eléctrica Nacional, S.A. (REN)",
+        "Abbr/Website": "REN ",
+        "neighbors": ["ES"]
+    },
+    {
+        "Acronym": "UA",
+        "Country": "Ukraine",
+        "Company": "National Power Company Ukrenergo",
+        "Abbr/Website": "Ukrenergo",
+        "neighbors": ["PL", "SK", "HU", "RO", "MD", "RU", "BY"]
+    },
+    {
+        "Acronym": "TN",
+        "Country": "Tunisia",
+        "Company": "TEG (Société Tunisienne de l'Electricité et du Gaz)",
+        "Abbr/Website": "TEG",
+        "neighbors": ["IT"]
+    },
+    {
+        "Acronym": "IE",
+        "Country": "Ireland",
+        "Company": "EirGrid plc",
+        "Abbr/Website": "EirGrid",
+        "neighbors": ["GB"]
+    },
+    {
+        "Acronym": "MD",
+        "Country": "Moldova",
+        "Company": "Moldelectrica Î.S.",
+        "Abbr/Website": "Moldelectrica",
+        "neighbors": ["UA", "RO"]
+    },
+    {
+        "Acronym": "LT",
+        "Country": "Lithuania",
+        "Company": "Litgrid AB",
+        "Abbr/Website": "Litgrid AB",
+        "neighbors": ["LV", "PL", "BY"]
+    },
+    {
+        "Acronym": "BY",
+        "Country": "Bielorrússia",
+        "Company": "Belenergo",
+        "Abbr/Website": "Belenergo",
+        "neighbors": ["RU", "UA", "PL", "LT", "LV"]
+    }
+]
